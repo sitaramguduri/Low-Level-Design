@@ -1,4 +1,4 @@
-package GoodDesignVehicles;
+package gooddesignvehicles;
 
 public class NewVehicles {
     public int getNumberOfWheels(){

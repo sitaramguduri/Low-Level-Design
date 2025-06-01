@@ -1,4 +1,4 @@
-package BadDesignVehicles;
+package baddesignvehicles;
 
 public class Car extends Vehicles{
     @Override

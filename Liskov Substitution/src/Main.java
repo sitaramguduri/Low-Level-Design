@@ -1,11 +1,11 @@
-import BadDesignVehicles.Bicycle;
-import BadDesignVehicles.Car;
-import BadDesignVehicles.MotorCycle;
-import BadDesignVehicles.Vehicles;
-import GoodDesignVehicles.NewBicycle;
-import GoodDesignVehicles.NewCar;
-import GoodDesignVehicles.NewMotorcycle;
-import GoodDesignVehicles.NewVehicles;
+import baddesignvehicles.Bicycle;
+import baddesignvehicles.Car;
+import baddesignvehicles.MotorCycle;
+import baddesignvehicles.Vehicles;
+import gooddesignvehicles.NewBicycle;
+import gooddesignvehicles.NewCar;
+import gooddesignvehicles.NewMotorcycle;
+import gooddesignvehicles.NewVehicles;
 
 import java.util.ArrayList;
 import java.util.List;

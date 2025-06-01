@@ -1,4 +1,4 @@
-package GoodDesignVehicles;
+package gooddesignvehicles;
 
 public class EngineVehicles extends NewVehicles{
     public Boolean hasEngine(){
