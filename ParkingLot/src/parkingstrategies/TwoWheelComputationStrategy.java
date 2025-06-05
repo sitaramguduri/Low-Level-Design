@@ -10,6 +10,6 @@ public class TwoWheelComputationStrategy extends CostComputationStrategy{
     public int costCompute( Ticket ticket){
         Date now = new Date();
         long timeDiff = now.getTime() - ticket.getStartTime().getTime();
-        return (int) timeDiff*2;
+        return (int) (timeDiff*2)+ 2;
     }
 }

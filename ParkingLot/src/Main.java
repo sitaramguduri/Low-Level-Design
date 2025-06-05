@@ -31,9 +31,10 @@ public class Main {
 
         System.out.println("check parking spot isEmpty:" + TwoWheelerParkingSpotList.get(0).isEmpty());
         ParkingSpot vehicleSpot = parkingSpotManager.findParkingSpot();
+        entranceGate.generateTicket(vehicle, nearStrategy,vehicleSpot);
         vehicleSpot.parkVehicle();
         System.out.println("check parking spot isEmpty:" + TwoWheelerParkingSpotList.get(0).isEmpty());
-        entranceGate.generateTicket(vehicle, nearStrategy,vehicleSpot);
+
         parkingSpotManager.parkVehicle(vehicleSpot);//vehicle is parked
 
         ExitGate exitGate = new ExitGate(entranceGate.getTicket(),parkingSpotManager);
