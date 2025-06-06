@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="879ab022-5c51-4c9d-a448-bd8a2d0258b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/EconomicCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/EconomicCarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/LuxuryCar2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/LuxuryCar2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecoratorDesignPattern/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DecoratorDesignPattern/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecoratorDesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DecoratorDesignPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov Substitution/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov Substitution/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov Substitution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov Substitution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverDesignPattern/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverDesignPattern/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverDesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverDesignPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParkingLot/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParkingLot/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParkingLot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParkingLot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToeDesign/src/tictactoe/TicTacToeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToeDesign/src/tictactoe/TicTacToeGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,16 +49,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.language"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.org.example.Main" />

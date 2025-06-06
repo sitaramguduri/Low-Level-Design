@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59b5221c-a2e0-4e84-800a-599c640eca25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParkingLot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractFactories/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractFactories/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractFactories/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractFactories/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecoratorDesignPattern/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DecoratorDesignPattern/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecoratorDesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DecoratorDesignPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov Substitution/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov Substitution/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Liskov Substitution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Liskov Substitution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverDesignPattern/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverDesignPattern/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObserverDesignPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObserverDesignPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToeDesign/src/tictactoe/TicTacToeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToeDesign/src/tictactoe/TicTacToeGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,12 +43,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
