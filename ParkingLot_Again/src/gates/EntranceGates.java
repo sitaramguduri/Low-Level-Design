@@ -7,22 +7,16 @@ import parking.Ticket;
 import parking.Vehicle;
 import types.VehicleType;
 
-public class EntranceGates {
+import java.time.LocalDateTime;
 
-    // generate Ticket and find a spot for the vehicle.
-
-    // it needs to get parking manager and find the parking spot
-    Ticket ticket;
-    ParkingManagerFactory factory;
-
-    public EntranceGates(ParkingManagerFactory factory){
-        this.factory = factory;
+public class EntranceGates extends Gate {
+    public EntranceGates(int id, ParkingSpotManager spotManager){
+        super(id, spotManager);
     }
-
-    public void findParkingSpot(VehicleType vehicleType){
-        // generate the parkingspotmanager using the factory
-    }
-    public void generateTicket(Vehicle vehicle, ParkingSpot spot){
-
+    public Ticket generateTicket(Vehicle vehicle) {
+        ParkingSpot spot = spotManager.allocateSpot();
+        spotManager.addVehicle(spot);
+        return new Ticket(vehicle, spot, gateId, LocalDateTime.now());
     }
 }
+

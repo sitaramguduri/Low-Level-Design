@@ -4,7 +4,6 @@ import types.VehicleType;
 
 public class ParkingSpot {
     int id;
-    int vehicle;
     boolean isEmpty;
     VehicleType vehicleType;
     int price;
